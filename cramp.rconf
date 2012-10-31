@@ -1,0 +1,11 @@
+ruby do
+  version  '1.9.2-p290'
+  rubygems '1.8.24'
+  gemset   'cramp'
+end
+bundler do
+  version '1.2.1'
+end
+
+
+
